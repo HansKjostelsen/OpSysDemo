@@ -1,6 +1,8 @@
 #include <iostream>
 
+std::string text{ "Testtest" };
+
 int main()
 {
-	std::cout << "Halla verdeeeeen" << std::endl;
+	std::cout << text << std::endl;
 }
